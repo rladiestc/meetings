@@ -1,0 +1,79 @@
+What do we want to gain out of this group? Why are we here? Topics, activities, etc.
+-	natural language processing, sentiment analysis
+-	shiny
+
+How is this different from r users group? Theirs is front facing and presentation focused- one person shows a thing they did.
+Hard to adjust to levels in those talks. People there aren't always ready to teach either.
+- Wonder what would happen if r group became workshop- break into groups and solve problems together.
+- Some of them are boring, some are interesting. Christina presented, scarlett is thinking about it but trying to find
+  something interesting to talk aout. We can all go and support her! She forgets stuff when she does analysis; could take
+  notes to remember lessons.
+
+Looking for people to be resources- son wants me to teach him r- troubleshooting quirks, figuring out error messages, what
+can I do if I get stuck? Short cicuit that process. Yes! I am a beginner, can work on stuff on my own but great for others to
+explain error messages, definitely benefit.
+
+Half-presentation idea- stuff you're working on that you have issues with or where you're stuck, looking for ideas on how to
+move forward. Presenting something that's in process.
+- Love to frame it not as a presentation- show and tell, unfinished project, so that you don't feel like the expectation is
+  that you're done with something.
+
+Mock tutorials- I know this lib kind of well or use it a lot, I can show what I've done.
+- Start a github where we can share stuff!
+- Github can also include notes and documentation- common functions, etc.
+
+We coud do something in both python and r- like the titanic thing. Would be interesting to do some text mining thing together using both python and r. cool way to learn what each can do and about different structure of he mindset in each language.
+
+We could bring in connections we have (montreal, gabriella rladies in san farancisco) on skype, we could record it and share it. Jackie's work has some capture functionality.
+- Dana knows someone who mapped r groups and their sizes, could look at who should be on our radar.
+
+Balance- maybe part response to r user group but toward open work time. We can also form cohorts.
+
+When do people want to meet?
+- Sunday afternoon is good.
+- Next weekend is may day and then following is mothers day.
+- Jackie talked to make co-op on nicollet and also coco about meeting space, both willing to host us. Coco for weekday nights
+- Dana- pybrary but for smaller groups, 12 people max. Merikada can offer her space (apt) or my common space too. Sue is in
+  Prospect Park, options there.
+- Large things- Jackie has access to space in Eden Prairie. Alison can get us space at the u.
+- PyLadies can host some things at Lead Pages, could do stuff together, we haven't decided yet what we're doing so we could
+  plan on sharing. Bigger workshoppy thing.
+
+How can we combine pyladies and rladies: PyRus, PybRary.
+- We've been boostrapping operations, Jackie is interested in organizing financing.
+- Jackie got $120 from Revolutions R- paid version of r with data connections, just bought by microsoft.
+- Does it make more sense to work with pyladies for a time and then cross this bridge when we come to it? We should be
+  mindful, have open conversation and be mindful of where money came from and how we use it. Rladies needs to have autonomy
+  and not be underneath pyladies.
+- Would people come if we were called python and r? Yes, it's exciting. Lots of energy around both. Logistically, can only go
+  to so many meetings so as much as we can meet together. Data nights!
+-  We can also talk about joint meetups for bigger things at lead pages. How do we get the most out of these meetups? We want
+  rladies input. Programmer speed dating idea.
+  
+Open twin cities- people go around and talk about what they plan to work on or are interested in that night. That's a good
+model. If you have something you want to problem solve that week, kind of useful to give a little spiel about what it is
+you're working on.
+
+Hack the Gap announcement- women's hackathon May 16-17.
+
+Rladies has a twitter! People are welcome to post to it, can share the password.
+
+Anything else?
+Text mining tutorial/show and tell next meetup?
+Untalk- like unconference- don't prepare! Watching people problem solve is really useful.
+
+If we have questions or comments can we post them online?
+
+Tools people like: jeff leek on coursera, avoid roger peng.
+-  Weird thing about r- and roger peng- very scripty and not programmy so you can get by without doing much stuff that looks like programmy. Roger's class was more programmy, not usually how people start but you can grow into it.
+-  Alison can maybe share the slides, maybe videos from 10 week course but not on gitub; maybe usb.
+-  Oreilly has couple books and a video series, R grapics cookbook.
+
+Christina is teaching an elementary stats course using r, can share slides and materials.
+Scarlett- Applied stats materials.
+
+Maybe we should start a wiki, or just use github? Is wiki more accessible? There is a github wiki feature. Maybe set up repo
+on meetin group discussions and link to a wiki.
+
+R is object oriented.
+Anaconda- spyder looks like rstudio if you're
